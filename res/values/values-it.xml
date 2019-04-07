@@ -16,41 +16,41 @@
     <string name="extra_settings_title">Evolution X</string>
 
     <!-- Categories -->
-    <string name="status_bar_title">Status bar</string>
+    <string name="status_bar_title">Barra di stato</string>
     <string name="quick_settings_title">Quick settings</string>
-    <string name="navigation_title">Navigation</string>
-    <string name="navbar_title">Navigation bar</string>
-    <string name="power_menu_title">Power menu</string>
-    <string name="volume_keys_title">Volume keys</string>
+    <string name="navigation_title">Navigazione</string>
+    <string name="navbar_title">Barra di navigazione</string>
+    <string name="power_menu_title">Menù di accensione</string>
+    <string name="volume_keys_title">Pulsanti volume</string>
     <string name="lock_screen_title">Lock screen</string>
-    <string name="notification_settings_title">Notifications</string>
-    <string name="general_tweaks_title">General tweaks</string>
-    <string name="theme_main">Themes</string>
-    <string name="theme_main_summary">Color it up!</string>
+    <string name="notification_settings_title">Notifiche</string>
+    <string name="general_tweaks_title">Modifiche generali</string>
+    <string name="theme_main">Temi</string>
+    <string name="theme_main_summary">Coloralo!</string>
 
     <!-- General app strings -->
-    <string name="general_category">General</string>
+    <string name="general_category">Generali</string>
     <string name="gestures_category">Gestures</string>
-    <string name="music_category">Music</string>
-    <string name="security_category">Security</string>
+    <string name="music_category">Musica</string>
+    <string name="security_category">Sicurezza</string>
     <string name="hardware_category">Hardware</string>
-    <string name="icons_category">Icons</string>
+    <string name="icons_category">Icone</string>
 
     <!-- Sub Categories -->
-    <string name="misc_title">Miscellaneous</string>
-    <string name="lock_screen_ui_title">Interface</string>
-    <string name="lock_screen_misc_title">Misc</string>
-    <string name="status_bar_battery_title">Battery icon</string>
-    <string name="stock_recents_title" >Stock recents</string>
-    <string name="hide_apps_title" >Hide apps</string>
+    <string name="misc_title">Varie</string>
+    <string name="lock_screen_ui_title">Interfaccia</string>
+    <string name="lock_screen_misc_title">Varie</string>
+    <string name="status_bar_battery_title">Icona batteria</string>
+    <string name="stock_recents_title" >Recenti stock</string>
+    <string name="hide_apps_title" >Nascondi applicazioni</string>
 
     <!-- General strings -->
     <string name="ok">OK</string>
-    <string name="reset">Reset</string>
-    <string name="cancel">Cancel</string>
-    <string name="save">Save</string>
-    <string name="action_save">Save</string>
-    <string name="action_cancel">Cancel</string>
+    <string name="reset">Resetta</string>
+    <string name="cancel">Cancella</string>
+    <string name="save">Salva</string>
+    <string name="action_save">Salva</string>
+    <string name="action_cancel">Cancella</string>
     <string name="default_string">Default</string>
 
     <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -68,7 +68,7 @@
     <string name="hex_hint">#ff000000</string>
     <string name="set">Set</string>
     <string name="color_default">Default</string>
-    <string name="system_colors">Colors</string>
+    <string name="system_colors">Colori</string>
 
     <!-- Preferences Categories -->
     <string name="cat_general_ui">UI tweaks</string>
@@ -76,10 +76,10 @@
     <string name="cat_powermenu_items">Power menu items</string>
     <string name="cat_volume_keys">Volume keys</string>
     <string name="cat_misc_app">App related</string>
-    <string name="anim_general_category">Overall Animations</string>
+    <string name="anim_general_category">Animazioni generali</string>
     <string name="anim_system_category">System related</string>
     <string name="misc_settings_cat_title">Settings app related</string>
-    <string name="general_system_stuff_preference">System Behaviour</string>
+    <string name="general_system_stuff_preference">Comportamento di Sistema</string>
 
     <!-- Power Menu -->
     <string name="powermenu_reboot_title">Restart</string>
@@ -112,42 +112,42 @@
     <string name="less_boring_heads_up_summary">Show heads up only for dialer or messaging app</string>	
 
     <!-- Battery Styles -->
-    <string name="battery_style_title">Battery icon style</string>
-    <string name="battery_style_summary">Change the style of the status bar battery</string>
-    <string name="battery_style_port">Portrait</string>
-    <string name="battery_style_circle">Circle</string>
-    <string name="battery_style_dotted_circle">Dotted circle</string>
-    <string name="battery_style_big_circle">Big circle</string>
-    <string name="battery_style_big_dotted_circle">Big dotted circle</string>
-    <string name="battery_style_text">Text (set Show battery percentage to Outside)</string>
-    <string name="battery_style_hidden">Hidden</string>
-    <string name="battery_percent_hidden">Hidden</string>
-    <string name="show_battery_percent_title">Show battery percentage</string>
-    <string name="show_battery_percent_summary">Show battery level percentage near the icon</string>
-    <string name="battery_style_category_title">Battery level</string>
-    <string name="battery_percent_outside">Outside</string>
-    <string name="battery_percent_inside">Inside</string>
+    <string name="battery_style_title">Stile icona Batteria</string>
+    <string name="battery_style_summary">Cambia lo stile della batteria nella status bar</string>
+    <string name="battery_style_port">Verticale</string>
+    <string name="battery_style_circle">Cerchio</string>
+    <string name="battery_style_dotted_circle">Cerchio puntellato</string>
+    <string name="battery_style_big_circle">Cerchio grande</string>
+    <string name="battery_style_big_dotted_circle">Cerchio grande puntellato</string>
+    <string name="battery_style_text">Testo (mostra la percentuale batteria fuori)</string>
+    <string name="battery_style_hidden">Nascosto</string>
+    <string name="battery_percent_hidden">Nascosto</string>
+    <string name="show_battery_percent_title">Mostra percentuale batteria</string>
+    <string name="show_battery_percent_summary">Mostra la percentuale della batteria accanto l'icona</string>
+    <string name="battery_style_category_title">Livello Batteria</string>
+    <string name="battery_percent_outside">Esterno</string>
+    <string name="battery_percent_inside">Interno</string>
 
     <!-- SeekBar -->
-    <string name="seekbar_no_default_value">No default value set</string>
-    <string name="seekbar_default_value_set">Value set to default of <xliff:g id="number">%d</xliff:g></string>
-    <string name="seekbar_default_value_already_set">Default value is already set</string>
+    <string name="seekbar_no_default_value">Nessun valore di default impostato</string>
+    <string name="seekbar_default_value_set">Valore di default impostato a <xliff:g id="number">%d</xliff:g></string>
+    <string name="seekbar_default_value_already_set">Il valore di default è già impostato</string>
     <string name="seekbar_default_string">Default</string>
 
     <!-- Fingerprint authentication vibration -->
-    <string name="fprint_sucess_vib_title">Fingerprint authentication vibration</string>
-    <string name="fprint_sucess_vib_summary">Vibrate on successful fingerprint authentication</string>
+    <string name="fprint_sucess_vib_title">Vibrazione all'autenticazione dell'impronta</string>
+    <string name="fprint_sucess_vib_summary">Vibra se l'impronta è stata registrata correttamente</string>
 
     <!-- Volume rocker wake -->
     <string name="volume_rocker_wake_title">Volume rocker wake</string>
-    <string name="volume_rocker_wake_summary">Pressing the volume keys will wake your device</string>
+    <string name="volume_rocker_wake_summary">Premendo i tasti del volume il dispositivo si accenderà</string>
 
     <!-- Double tap-to-sleep -->
-    <string name="double_tap_to_sleep_title">Status bar</string>
-    <string name="double_tap_to_sleep_summary">Double-tap status bar to put the device to sleep</string>
+    <string name="double_tap_to_sleep_title">Barra di stato</string>
+    <string name="double_tap_to_sleep_summary">Doppio tap sulla barra di stato per spegnere il dispositivo</string>
 
     <!-- Network traffic -->
-    <string name="traffic_title">Traffic indicators</string>
+    <string name="traffic_title">Indicatori di traffico</string>
     <string name="network_traffic_title">Network traffic</string>
     <string name="network_traffic_type">Select net activity type</string>
     <string name="show_network_traffic_up">Uplink</string>
@@ -161,75 +161,75 @@
     <!-- Heads up -->
     <string name="headsup_category">HeadsUp Settings</string>
     <string name="heads_up_notifications">Heads up</string>
-    <string name="heads_up_notifications_summary">Customize heads up notifications settings</string>
-    <string name="summary_heads_up_enabled">Pop-up notifications are enabled</string>
-    <string name="summary_heads_up_disabled">Pop-up notifications are disabled</string>
-    <string name="add_heads_up_package">Add app</string>
-    <string name="add_heads_up_stoplist_summary">Disable heads up notifications in these applications</string>
-    <string name="add_heads_up_blacklist_summary">Disable heads up from these applications</string>
+    <string name="heads_up_notifications_summary">Personalizza le impostazioni delle notifiche heads up</string>
+    <string name="summary_heads_up_enabled">Notifiche pop-up abilitate</string>
+    <string name="summary_heads_up_disabled">Notifiche pop-up disabilitate</string>
+    <string name="add_heads_up_package">Aggiungi applicazione</string>
+    <string name="add_heads_up_stoplist_summary">Disabilita le notifiche heads up in queste applicazioni</string>
+    <string name="add_heads_up_blacklist_summary">Disabilita le notifiche heads up da queste applicazioni</string>
     <string name="heads_up_stoplist_title">Stoplist</string>
-    <string name="heads_up_blacklist_title">Blacklist</string>
-    <string name="profile_choose_app">Choose app</string>
-    <string name="dialog_delete_title">Delete</string>
-    <string name="dialog_delete_message">Remove selected item?</string>
+    <string name="heads_up_blacklist_title">Lista nera</string>
+    <string name="profile_choose_app">Scegli l'app</string>
+    <string name="dialog_delete_title">Cancella</string>
+    <string name="dialog_delete_message">Rimuovere gli ogetti selezionati?</string>
 
     <!-- Heads up timeout -->
-    <string name="heads_up_time_out_title">Time out</string>
+    <string name="heads_up_time_out_title">Tempo scaduto</string>
     <string name="heads_up_time_out_summary">Peeking notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-    <string name="heads_up_time_out_2sec">2 seconds</string>
-    <string name="heads_up_time_out_4sec">4 seconds</string>
-    <string name="heads_up_time_out_5sec">5 seconds</string>
-    <string name="heads_up_time_out_6sec">6 seconds</string>
-    <string name="heads_up_time_out_8sec">8 seconds</string>
-    <string name="heads_up_time_out_10sec">10 seconds</string>
+    <string name="heads_up_time_out_2sec">2 secondi</string>
+    <string name="heads_up_time_out_4sec">4 secondi</string>
+    <string name="heads_up_time_out_5sec">5 secondi</string>
+    <string name="heads_up_time_out_6sec">6 secondi</string>
+    <string name="heads_up_time_out_8sec">8 secondi</string>
+    <string name="heads_up_time_out_10sec">10 secondi</string>
 
     <!-- Heads up snooze -->
     <string name="heads_up_snooze_title">Snooze timer</string>
     <string name="heads_up_snooze_summary_one_minute">Swiping up on peeking notifications will snooze heads up from that application for 1 minute</string>
     <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for <xliff:g id="number">%d</xliff:g> minutes</string>
     <string name="heads_up_snooze_disabled_summary">Snooze timer is disabled</string>
-    <string name="heads_up_snooze_1min">1 minute</string>
-    <string name="heads_up_snooze_5min">5 minutes</string>
-    <string name="heads_up_snooze_10min">10 minutes</string>
-    <string name="heads_up_snooze_15min">15 minutes</string>
-    <string name="heads_up_snooze_20min">20 minutes</string>
+    <string name="heads_up_snooze_1min">1 minuto</string>
+    <string name="heads_up_snooze_5min">5 minuti</string>
+    <string name="heads_up_snooze_10min">10 minuti</string>
+    <string name="heads_up_snooze_15min">15 minuti</string>
+    <string name="heads_up_snooze_20min">20 minuti</string>
 
     <!-- Power menu on secure lockscreen -->
-    <string name="powermenu_lockscreen_title">Lockscreen visibility</string>
-    <string name="powermenu_lockscreen_summary">Enable the ability to show and use the power menu dialog while on the lockscreen</string>
+    <string name="powermenu_lockscreen_title">Visibilità nella lockscreen</string>
+    <string name="powermenu_lockscreen_summary">Attiva la possibiltità di mostrare e usare il menù di accensione mentre si è nella lockscreen</string>
 
     <!-- Roaming indicator icon -->
-    <string name="roaming_indicator_icon_title">Roaming indicator</string>
+    <string name="roaming_indicator_icon_title">Indicatore roaming</string>
     <string name="roaming_indicator_icon_summary">Display roaming indicator in signal icon when in roaming mode</string>
 
     <!-- 4G icon -->
-    <string name="show_fourg_icon_title">4G icon</string>
-    <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string>
+    <string name="show_fourg_icon_title">Icona 4G</string>
+    <string name="show_fourg_icon_summary">Mostra 4G invece che LTE</string>
 
     <!-- Show VoLTE icon on statusbar -->
-    <string name="volte_icon_title">VoLTE icon</string>
-    <string name="volte_icon_summary">Display VoLTE icon (Needs a SystemUI restart to take effect)</string>
+    <string name="volte_icon_title">Icona VoLTE </string>
+    <string name="volte_icon_summary">Mostra l'icona del VoLTE (Necessita di un riavvio per avere effetto)</string>
 
     <!-- Data disabled icon -->
     <string name="data_disabled_icon_title">Show data disabled icon</string>
-    <string name="data_disabled_icon_summary">Display the cross sign next to signal bar when data is disabled</string>
+    <string name="data_disabled_icon_summary">Mostra la x quando la connessione dati è spenta</string>
 
     <!--3-Finger screenshot-->
-    <string name="three_finger_gesture">Three finger gesture</string>
-    <string name="three_finger_gesture_summary">Swipe three fingers to take a screenshot</string>
+    <string name="three_finger_gesture">Gesture a tre dita</string>
+    <string name="three_finger_gesture_summary">Fai uno swipe con tre dita per fare uno screenshot</string>
 
     <!-- Lockscreen icons -->
     <string name="hide_lockscreen_items_title">Lockscreen items</string>
 
     <!-- Lockscreen items -->
-    <string name="lockscreen_clock_title">Clock widget</string>
-    <string name="lockscreen_clock_summary">Show the clock widget on the lockscreen</string>
+    <string name="lockscreen_clock_title">Widget orologio</string>
+    <string name="lockscreen_clock_summary">Mostra il widget orologio nella lockscreen</string>
     <string name="lockscreen_info_title">Items underneath the clock</string>
-    <string name="lockscreen_info_summary">Show the date, weather, alarms and zen on the lockscreen</string>
+    <string name="lockscreen_info_summary">Mostra la data, il meteo, alarms e zen nella lockscreen</string>
 
     <!-- Lockscreen clock styles -->
-    <string name="lockscreen_clock_styles_category">Lockscreen styles</string>
-    <string name="lockscreen_clock_selection_title">Clock style</string>
+    <string name="lockscreen_clock_styles_category">Stili della lockscreen</string>
+    <string name="lockscreen_clock_selection_title">Stile orologio</string>
     <string name="lockscreen_clock_selection_digital">Default</string>
     <string name="lockscreen_clock_selection_digital_bold">Digital (bold)</string>
     <string name="lockscreen_clock_selection_analog">Analog</string>
@@ -237,8 +237,8 @@
     <string name="lockscreen_clock_selection_sammy_bold">Sammy (bold)</string>
     <string name="lockscreen_clock_selection_sammy_accent">Sammy with accent</string>
     <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy with accent (alt)</string>
-    <string name="lockscreen_clock_selection_shishu_dreams" translatable="false">Shishu Dreams UI</string>
-    <string name="lockscreen_clock_selection_shishu_immensity" translatable="false">Shishu Immensity UI</string>
+    <string name="lockscreen_clock_selection_shishu_dreams" traducibile="false">Shishu Dreams UI</string>
+    <string name="lockscreen_clock_selection_shishu_immensity" traducibile="false">Shishu Immensity UI</string>
     <string name="lockscreen_clock_selection_shishu_nerves">Shishu Nerves</string>
     <string name="lockscreen_clock_selection_gradient_btlglogo">Gradient clock (with bootleg logo)</string>
     <string name="lockscreen_clock_selection_gradient_shishu">Gradient clock (with shishu logo)</string>
@@ -246,8 +246,8 @@
     <string name="lockscreen_clock_selection_gradient_likeqs">Monochrome gradient clock</string>
 
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call vibration</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
+    <string name="incall_vibration_category">Vibrazione in chiamata</string>
+    <string name="incall_vibrate_connect_title">Vibra alla connessione</string>
     <string name="incall_vibrate_connect_summary">Enable to vibrate after call connect</string>
     <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
     <string name="incall_vibrate_call_wait_summary">Enable to vibrate while call is on waiting</string>
