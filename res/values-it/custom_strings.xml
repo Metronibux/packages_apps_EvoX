@@ -50,14 +50,14 @@
     <string name="cancel">Cancella</string>
     <string name="save">Salva</string>
     <string name="action_save">Salva</string>
-    <string name="action_cancel">Cancella</string>
-    <string name="default_string">Default</string>
+    <string name="action_cancel">Annulla</string>
+    <string name="default_string">Predefinito</string>
 
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_on">On</string>
+    <string name="switch_bar_on">Attivo</string>
 
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_off">Off</string>
+    <string name="switch_bar_off">Spento</string>
 
     <!-- Color Picker -->
     <string name="dialog_color_picker">Color picker</string>
@@ -82,9 +82,9 @@
     <string name="general_system_stuff_preference">Comportamento di Sistema</string>
 
     <!-- Power Menu -->
-    <string name="powermenu_reboot_title">Restart</string>
-    <string name="powermenu_advanced_reboot_title">Advanced restart</string>
-    <string name="powermenu_advanced_reboot_summary">When unlocked, include options in the power menu for restarting into recovery or bootloader</string>
+    <string name="powermenu_reboot_title">Riavvio</string>
+    <string name="powermenu_advanced_reboot_title">Riavvio avanzato</string>
+    <string name="powermenu_advanced_reboot_summary">Abilita il menu di riavvio avanzato per le opzioni di riavvio</string>
     <string name="powermenu_advanced_restart_summary">Enables the advanced restart menu for other restarting options</string>
     <string name="powermenu_lockdown_title">Lockdown</string>
     <string name="powermenu_screenshot_title">Screenshot</string>
@@ -100,16 +100,16 @@
     <string name="volume_button_music_control_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
 
     <!-- Lockscreen dt2s -->
-    <string name="double_tap_sleep_lockscreen_title">Double tap to sleep</string>
-    <string name="double_tap_sleep_lockscreen_sumary">Double tap anywhere on the lockscreen to put the phone to sleep</string>
+    <string name="double_tap_sleep_lockscreen_title">Doppio tocco per spegnere</string>
+    <string name="double_tap_sleep_lockscreen_sumary">Doppio tocco ovunque nella schermata di blocco per spegnere il dispositivo</string>
 
     <!-- Lockscreen cover art -->
-    <string name="media_art_title">Media cover art</string>
-    <string name="media_art_summary">Enable media cover art on the lockscreen</string>
+    <string name="media_art_title">Copertina dei media</string>
+    <string name="media_art_summary">Mostra copertina dei media come sfondo nella schermata di blocco</string>
 
     <!-- less boring heads up -->
-    <string name="less_boring_heads_up_title">Less boring heads up</string>
-    <string name="less_boring_heads_up_summary">Show heads up only for dialer or messaging app</string>	
+    <string name="less_boring_heads_up_title">Notifiche a comparsa meno noiose</string>
+    <string name="less_boring_heads_up_summary">Mostra le notifiche a comparsa solo per l\'app telefono o messaggi</string>
 
     <!-- Battery Styles -->
     <string name="battery_style_title">Stile icona Batteria</string>
@@ -135,12 +135,12 @@
     <string name="seekbar_default_string">Default</string>
 
     <!-- Fingerprint authentication vibration -->
-    <string name="fprint_sucess_vib_title">Vibrazione all'autenticazione dell'impronta</string>
-    <string name="fprint_sucess_vib_summary">Vibra se l'impronta è stata registrata correttamente</string>
+    <string name="fprint_sucess_vib_title">Vibrazione autenticazione impronta digitale</string>
+    <string name="fprint_sucess_vib_summary">Vibra quando l\'autenticazione delle impronte digitali è riuscita</string>
 
     <!-- Volume rocker wake -->
-    <string name="volume_rocker_wake_title">Volume rocker wake</string>
-    <string name="volume_rocker_wake_summary">Premendo i tasti del volume il dispositivo si accenderà</string>
+    <string name="volume_rocker_wake_title">Risveglia dispositivo</string>
+    <string name="volume_rocker_wake_summary">Premi i tasti volume per risvegliare il dispositivo</string>
 
     <!-- Double tap-to-sleep -->
     <string name="double_tap_to_sleep_title">Barra di stato</string>
@@ -148,19 +148,19 @@
 
     <!-- Network traffic -->
     <string name="traffic_title">Indicatori di traffico</string>
-    <string name="network_traffic_title">Network traffic</string>
-    <string name="network_traffic_type">Select net activity type</string>
-    <string name="show_network_traffic_up">Uplink</string>
-    <string name="show_network_traffic_down">Downlink</string>
-    <string name="show_network_traffic_all">Uplink and Downlink</string>
+    <string name="network_traffic_title">Traffico di rete</string>
+    <string name="network_traffic_type">Tipo di attività</string>
+    <string name="show_network_traffic_up">Upload</string>
+    <string name="show_network_traffic_down">Download</string>
+    <string name="show_network_traffic_all">Entrambi</string>
     <string name="network_traffic_state_title">Show net activity in statusbar</string>
-    <string name="network_traffic_autohide_threshold_title">Net activity autohide threshold (KB/s)</string>
-    <string name="network_traffic_hidearrow">Hide arrows</string>
-    <string name="network_traffic_hidearrow_summary">Hide the network traffic indicator arrows</string>
+    <string name="network_traffic_autohide_threshold_title">Nascondi automaticamente soglia</string>
+    <string name="network_traffic_hidearrow">Frecce di attività</string>
+    <string name="network_traffic_hidearrow_summary">Mostra le frecce dell\'indicatore di traffico di rete</string>
 
     <!-- Heads up -->
     <string name="headsup_category">HeadsUp Settings</string>
-    <string name="heads_up_notifications">Heads up</string>
+    <string name="heads_up_notifications">Notifiche a comparsa</string>
     <string name="heads_up_notifications_summary">Personalizza le impostazioni delle notifiche heads up</string>
     <string name="summary_heads_up_enabled">Notifiche pop-up abilitate</string>
     <string name="summary_heads_up_disabled">Notifiche pop-up disabilitate</string>
@@ -630,10 +630,10 @@
     <string name="systemui_recents_mem_display_summary">Enable or disable ram bar in recent app view</string>
 
     <!-- Clock and date immersive recents -->
-    <string name="recents_full_screen_clock_title">Show clock</string>
-    <string name="recents_full_screen_clock_summary">Shows clock at the top while in immersive</string>
-    <string name="recents_full_screen_date_title">Show date</string>
-    <string name="recents_full_screen_date_summary">Shows date at the top while in immersive</string>
+    <string name="recents_full_screen_clock_title">Mostra l\'orologio</string>
+    <string name="recents_full_screen_clock_summary">Mostra l\'orologio in alto nella modalità immersiva</string>
+    <string name="recents_full_screen_date_title">Mostra data</string>
+    <string name="recents_full_screen_date_summary">Mostra la data in alto nella modalità immersiva</string>
 
     <!-- Recents styles -->
     <string name="clear_recents_style">Button style</string>
@@ -713,22 +713,22 @@
     <string name="reset_message">Reset all entries to default?</string>
 
     <!-- Wakeup options -->
-    <string name="wakeup_when_plugged_unplugged_title">Wake up on charge</string>
-    <string name="wakeup_when_plugged_unplugged_summary">Wake up device if charger is plugged/unplugged.</string>
+    <string name="wakeup_when_plugged_unplugged_title">Risveglia alla carica</string>
+    <string name="wakeup_when_plugged_unplugged_summary">Risveglia il dispositivo se il caricabatteria è collegato/scollegato.</string>
 
     <!-- Wakelock blocker -->
-    <string name="wakelock_blocker_title">Wakelock Blocker</string>
-    <string name="wakelock_blocker_summary">Block system wakelocks</string>
-    <string name="wakelock_blocker_save">Save</string>
-    <string name="wakelock_list_header">Available wakelocks</string>
-    <string name="wakelock_blocker_reload">Reload</string>
+    <string name="wakelock_blocker_title">Blocco Wakelock</string>
+    <string name="wakelock_blocker_summary">Blocca wakelock di sistema</string>
+    <string name="wakelock_blocker_save">Salva</string>
+    <string name="wakelock_list_header">Wakelocks disponibili</string>
+    <string name="wakelock_blocker_reload">Ricarica</string>
 
     <!-- Alarm blocker -->
-    <string name="alarm_blocker_title">Alarm blocker</string>
-    <string name="alarm_blocker_summary">Block alarms while screen off</string>
-    <string name="alarm_blocker_save">Save</string>
-    <string name="alarm_list_header">Available alarms</string>
-    <string name="alarm_blocker_reload">Reload</string>
+    <string name="alarm_blocker_title">Blocco allarme</string>
+    <string name="alarm_blocker_summary">Blocca gli allarmi mentre lo schermo è spento</string>
+    <string name="alarm_blocker_save">Salva</string>
+    <string name="alarm_list_header">Allarmi disponibili</string>
+    <string name="alarm_blocker_reload">Ricarica</string>
 
     <!-- Statusbar Clock -->
     <string name="clock_style_category_title">Clock Settings</string>
@@ -760,27 +760,27 @@
     <string name="clock_date_string_edittext_summary">Enter string</string>
 
     <!-- Brightness control -->
-    <string name="status_bar_toggle_brightness">Brightness control</string>
-    <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
+    <string name="status_bar_toggle_brightness">Controllo luminosità</string>
+    <string name="status_bar_toggle_brightness_summary">Regola la luminosità scorrendo sulla barra di stato</string>
 
     <!-- USB configuration -->
-    <string name="usb_default_config_title">USB configuration</string>
-    <string name="usb_default_config_summary">Choose the default behavior when connected to a device via USB</string>
+    <string name="usb_default_config_title">Configurazione USB</string>
+    <string name="usb_default_config_summary">Scegli il comportamento predefinito quando connesso a un dispositivo tramite USB</string>
 
     <!-- Statusbar Tuner -->
-    <string name="statusbar_items_title">Statusbar items</string>
-    <string name="statusbar_items_summary">Toggle visibility of icons in statusbar</string>
+    <string name="statusbar_items_title">Icone barra di stato</string>
+    <string name="statusbar_items_summary">Attiva/disattiva la visibilità delle icone nella barra di stato</string>
 
     <!-- Lockscreen icons -->
-    <string name="lockscreen_tuner_title">Lockscreen shortcuts</string>
-    <string name="lockscreen_tuner_summary">Change the bottom left/right shortcuts</string>
+    <string name="lockscreen_tuner_title">Scorciatoie in basso</string>
+    <string name="lockscreen_tuner_summary">Modifica le scorciatoie in basso a sinistra/destra della schermata di blocco</string>
 
     <!-- Navbar tuner -->
-    <string name="navbar_tuner_title">Navbar buttons</string>
-    <string name="navbar_tuner_summary">Customize the buttons displayed on Navbar</string>
+    <string name="navbar_tuner_title">Pulsanti barra di navigazione</string>
+    <string name="navbar_tuner_summary">Personalizza i pulsanti visualizzati sulla barra di navigazione</string>
 
     <!-- Privacy guard -->
-    <string name="app_ops_settings_title">Privacy guard</string>
-    <string name="app_ops_settings_summary">Block app permissions</string>
+    <string name="app_ops_settings_title">Privacy Guard</string>
+    <string name="app_ops_settings_summary">Blocca permessi app</string>
 
 </resources>
